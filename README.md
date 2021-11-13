@@ -1,6 +1,6 @@
 <h1>👋 Hi there</h1>
 - 👀 I’m learning to become Software Egineering<br>
-- 🌱 Skills: Javascript, Java<br>
+- 🌱 Skills: Javascript/ Java<br>
 - 📫 How to reach me <a href="#">nipponwfm@gmail.com</a><br>
 
 <!---
