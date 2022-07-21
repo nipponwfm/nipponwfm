@@ -3,10 +3,10 @@
   <li>👀 I’m learning to become Software Egineering<br></li>
   <li>
     🌱 I have knowledge about:<br>
-    - ReactJS, Angular<br>
-    - NodeJS, ExpressJS, NestJS<br>
-    - SQL, MySQL, PostgreSQL, MongoDB<br>
-    - Typescript, Docker, Jest, RxJS
+    + ReactJS, Angular<br>
+    + NodeJS, ExpressJS, NestJS<br>
+    + SQL, MySQL, PostgreSQL, MongoDB<br>
+    + Typescript, Docker, Jest, RxJS
     
   </li>
   <li>📫 How to reach me <a href="#">nipponwfm@gmail.com</a><br></li>
