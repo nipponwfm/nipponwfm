@@ -5,7 +5,7 @@
 + ExpressJS, NestJS<br>
 + SQL, MySQL, PostgreSQL, MongoDB<br>
 + Kafka, Redis<br>
-+ Typescript, Docker, Jest, RxJS, SocketIO<br><br>
++ Typescript, Docker, Jest, RxJS, Redux, SocketIO<br><br>
 🌈 How to reach me <a>nipponwfm@gmail.com</a><br>
 
 <!---
