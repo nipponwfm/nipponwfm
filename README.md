@@ -2,7 +2,7 @@
 👀 I’m learning to become Software Egineering<br><br>
 📜 My skills:<br>
 + ReactJS, Angular<br>
-+ NodeJS, ExpressJS, NestJS<br>
++ ExpressJS, NestJS<br>
 + SQL, MySQL, PostgreSQL, MongoDB<br>
 + Kafka, Redis<br>
 + Typescript, Docker, Jest, RxJS, SocketIO<br><br>
