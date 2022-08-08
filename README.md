@@ -6,8 +6,9 @@
 + SQL, MySQL, PostgreSQL, MongoDB<br>
 + Kafka, Redis<br>
 + Typescript, Docker, Jest, RxJS, Redux, SocketIO<br><br>
-🌈 How to reach me <a>nipponwfm@gmail.com</a><br>
-
+🌈 How to reach me <br>
++ email: <a href="#">nipponwfm@gmail.com</a><br>
++ facebook: <a href="https://www.facebook.com/nipponwfm">@nipponwfm</a><br>
 <!---
 nipponwfm/nipponwfm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
