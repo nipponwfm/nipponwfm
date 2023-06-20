@@ -1,7 +1,7 @@
 <h1>👋 Hi there</h1>
 👀 I’m learning to become Software Egineering<br><br>
 📜 My skills:<br>
-+ ReactJS, Angular<br>
++ ReactJS<br>
 + ExpressJS, NestJS<br>
 + SQL, MySQL, PostgreSQL, MongoDB<br>
 + Kafka, Redis<br>
